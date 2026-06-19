@@ -1,0 +1,2 @@
+# ObsidianBox
+ネタ帳とかいろいろ
