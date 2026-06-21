@@ -2,7 +2,7 @@
 type: index
 category: business_ideas
 created: 2026-06-19
-updated: 2026-06-19
+updated: 2026-06-21
 tags:
   - business
   - idea
@@ -31,6 +31,7 @@ sort priority asc
 - [[005_AI商圏分析・出店診断SaaS]]
 - [[006_AI広告配信ステップ管理ツール]]
 - [[007_日用品ストックチェッカー]]
+- [[008_ポイント一元管理アプリ]]
 
 ## 評価軸
 
@@ -42,3 +43,4 @@ sort priority asc
 - 横展開しやすいか
 - AIエージェント化しやすいか
 - 継続利用される頻度があるか
+- 取得データの正確性・規約リスクを制御できるか
