@@ -2,7 +2,7 @@
 type: index
 category: business_ideas
 created: 2026-06-19
-updated: 2026-06-21
+updated: 2026-06-22
 tags:
   - business
   - idea
@@ -32,6 +32,7 @@ sort priority asc
 - [[006_AI広告配信ステップ管理ツール]]
 - [[007_日用品ストックチェッカー]]
 - [[008_ポイント一元管理アプリ]]
+- [[009_WEBサイトAI翻訳サービス]]
 
 ## 評価軸
 
@@ -44,3 +45,4 @@ sort priority asc
 - AIエージェント化しやすいか
 - 継続利用される頻度があるか
 - 取得データの正確性・規約リスクを制御できるか
+- 競合と差別化できる導入方式・対象業種があるか
